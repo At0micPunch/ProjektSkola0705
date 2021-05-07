@@ -31,7 +31,7 @@ namespace ProjektSkola0705
         {
             MessageBox.Show("Hello_pp");
             MessageBox.Show("a jsem tady taky");
-            MessageBox.Show("Kolaborant Čech, vy jste teplej nejste?");  //Its true
+            MessageBox.Show("Kolaborant Čech, vy jste teplej nejste?");  //Its true //ano je
         }
     }
 }
