@@ -29,9 +29,11 @@ namespace ProjektSkola0705
 
         private void button3_Click(object sender, EventArgs e)
         {
+
             MessageBox.Show("Hello_pp"); // Vojta
             MessageBox.Show("a jsem tady taky"); //Lukáš
             MessageBox.Show("Kolaborant Čech, vy jste teplej nejste?");  //Its true
+
         }
     }
 }
