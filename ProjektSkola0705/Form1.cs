@@ -26,5 +26,10 @@ namespace ProjektSkola0705
         {
             MessageBox.Show("Hello_home");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello_pp");
+        }
     }
 }
